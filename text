@@ -1,0 +1,5 @@
+this is an app store file. this app store assigmnet is good for interview point of view
+
+if it's not running in ccbp terminal first run the below cmd before using nom install
+
+rm -rf node_modules && npm install
